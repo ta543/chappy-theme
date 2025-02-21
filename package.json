@@ -1,11 +1,11 @@
 {
     "title": "Tobias Andersen",
-    "name": "github-ta543-theme",
+    "name": "github-ta543-chappy-theme",
     "description": "chappy",
     "version": "0.0.1",
     "license": "MIT",
     "author": "Tobias Andersen (https://github.com/ta543)",
-    "homepage": "https://github.com/ta543/theme/",
+    "homepage": "https://github.com/ta543/chappy-theme/",
     "engines": {
         "brackets": ">=2.0.0"
     },
