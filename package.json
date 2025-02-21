@@ -1,11 +1,11 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "Tobias Andersen",
+    "name": "github-ta543-theme",
+    "description": "chappy",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Tobias Andersen (https://github.com/ta543)",
+    "homepage": "https://github.com/ta543/theme/",
     "engines": {
         "brackets": ">=2.0.0"
     },
